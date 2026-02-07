@@ -16,6 +16,12 @@ export default function Projects() {
     description: 'A Ecommerce webapp made using MERN'
   },
   {
+    image: 'https://picsum.photos/400/600?grayscale',
+    link: 'https://github.com/Tanush-lol/SqlApi',
+    title: 'Postgressql API',
+    description: 'yuh so i did the cpp code from pqxx did the golang one from the sql package and yt videos and implemented the rollback function using deepseek'
+  },
+  {
     image: 'https://picsum.photos/598/600?grayscale',
     link: 'https://tic-tac-toe-gamma-sage.vercel.app/',
     title: 'tic-tac-toe',
